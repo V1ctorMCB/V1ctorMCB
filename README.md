@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=230&section=header&text=Victor%20Carrillo%20%7C%20AS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Game%20Dev&descAlignY=60&descSize=17" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./banner.gif" width="100%" />
+</p>
+
 <h3 align="center">Hi👋, I'm Victor Carrillo, alias ⚡AS⚡ — passionate about full-stack development, originally from Colima, Mexico</h3>
 
 <p align="center">
