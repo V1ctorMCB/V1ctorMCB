@@ -1,18 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=230&section=header&text=Victor%20Carrillo%20%7C%20AS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Game%20Dev&descAlignY=60&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=230&section=header&text=Victor%20Carrillo%20%7C%20AS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20and%20Game%20Dev&descAlignY=60&descSize=17" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./banner.gif" width="100%" />
+  <img src="./cuervosBanner.gif" width="100%" />
 </p>
 
 <h3 align="center">Hi👋, I'm Victor Carrillo, alias ⚡AS⚡ — passionate about full-stack development, originally from Colima, Mexico</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=v1ctormcb&theme=onedark" alt="v1ctormcb" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on **Develop and improve an add-on for Minecraft Bedrock based on a Hunger Games-style game format.**
 
@@ -80,13 +74,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=v1ctormcb&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="v1ctormcb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V1ctorMCB&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="V1ctorMCB" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v1ctormcb&show_icons=true&locale=en&theme=tokyonight" alt="v1ctormcb" />
+  <img src="https://github-readme-stats.vercel.app/api?username=V1ctorMCB&show_icons=true&locale=en&theme=tokyonight" alt="V1ctorMCB" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=v1ctormcb&theme=tokyonight" alt="v1ctormcb" />
+  <img src="https://streak-stats.demolab.com/?user=V1ctorMCB&theme=tokyonight" alt="V1ctorMCB" />
 </p>
