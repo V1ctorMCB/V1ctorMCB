@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=230&section=header&text=Victor%20Carrillo%20%7C%20AS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20and%20Game%20Dev&descAlignY=60&descSize=17" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./cuervosBanner.gif" width="100%" />
+  <img src="./Cuervos.gif" width="100%" />
 </p>
 
 <h3 align="center">Hi👋, I'm Victor Carrillo, alias ⚡AS⚡ — passionate about full-stack development, originally from Colima, Mexico</h3>
@@ -23,6 +19,10 @@
 - 📄 About my experiences: **Through my university, I have worked on a diverse range of projects—including interactive websites, point-of-sale systems with relational databases, pixel-art video games, and multi-service Android apps—alongside a variety of collaborators.**
 
 - ⚡ Fun fact **I’m the type of person who, even when everything is stacked against me, never lets a project fall apart—it’s a good thing, but also a bad thing, haha.**
+
+<p align="center">
+  <img src="./FloresTokyoGhoul.gif" width="100%" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -74,6 +74,10 @@
 </p>
 
 <p align="center">
+  <img src="./Cruz.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V1ctorMCB&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="V1ctorMCB" />
 </p>
 
@@ -83,4 +87,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=V1ctorMCB&theme=tokyonight" alt="V1ctorMCB" />
+</p>
+
+<p align="center">
+  <img src="./Velas.gif" width="100%" />
 </p>
